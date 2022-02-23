@@ -4,7 +4,7 @@
 - 🔭 Atualmente sou desenvolvedor e diretor de gestão de pessoas da Haken, empresa júnior de ciência da computação da UTFPR-CM;
 - 📚 Estudando front-end com JS e React;
 - 🚀 Atualmente focado em se tornar desenvolvedor Full Stack, além de estar me aprofundando em gestão de pessoas;
-- 🏠 Sempre morei em Auriflama-SP, ao ser aprovado na faculdade me mudei para Campo Mourão-PR.
+- 🏠 Sempre morei em Auriflama-SP, mas ao ser aprovado na faculdade me mudei para Campo Mourão-PR.
 
  ##
 
