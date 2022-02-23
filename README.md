@@ -31,8 +31,6 @@
     <a href="https://www.instagram.com/leju0/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:alexandre.2001@alunos.utfpr.edu.br "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
   </div>
- 
-![](https://komarev.com/ghpvc/?username=alescrocaro&color=blueviolet)
   
 <!--
   Here are some ideas to get you started:
