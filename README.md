@@ -3,7 +3,6 @@
 - 🌱 Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná, no campus de Campo Mourão;
 - 🔭 Atualmente sou desenvolvedor e diretor de gestão de pessoas da Haken, empresa júnior de ciência da computação da UTFPR-CM;
 - 📚 Estudando front-end com React-JS;
-- 🚀 Atualmente focado em se tornar desenvolvedor Full Stack, além de estar me aprofundando em gestão de pessoas;
 - 🏠 Sempre morei em Auriflama-SP, mas ao ser aprovado na faculdade me mudei para Campo Mourão-PR.
 
  ##
