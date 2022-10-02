@@ -1,9 +1,7 @@
-### Olá! Meu nome é Alexandre e tenho 20 anos 🤙
+### Olá! Meu nome é Alexandre e tenho 21 anos 🤙
 
-- 🌱 Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná, no campus de Campo Mourão;
-- 🔭 Atualmente sou desenvolvedor e diretor de gestão de pessoas da Haken, empresa júnior de ciência da computação da UTFPR-CM;
-- 📚 Estudando a stack Node/React;
-- 🏠 Moro em Campo Mourão-PR.
+- 📚 Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná, no campus de Campo Mourão;
+- 🏠 Campo Mourão-PR.
 
  ##
 
