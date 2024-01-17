@@ -1,5 +1,4 @@
-### Olá! Meu nome é Alexandre e tenho 21 anos 🤙
-
+### Olá! Meu nome é Alexandre e tenho 22 anos.
 - 📚 Estudante de Ciência da Computação na Universidade Tecnológica Federal do Paraná;
 - 🏠 Campo Mourão-PR.
 
